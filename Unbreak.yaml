@@ -9,7 +9,7 @@ payload:
   - DOMAIN-KEYWORD,dmm
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,phncdn.com
-
+  - DOMAIN-SUFFIX,graph.oculus.com
   
   
 
