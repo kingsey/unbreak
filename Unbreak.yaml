@@ -1,5 +1,4 @@
 payload:
-  #ghs
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,t66y.com
@@ -10,7 +9,11 @@ payload:
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,graph.oculus.com
-  - DOMAIN-SUFFIX,renzhe.cloud
+  - DOMAIN,renzhe.cloud
+  - DOMAIN,renzhecloud.com
+  - DOMAIN,knowledgebase.renzhecloud.link
+  - DOMAIN,status.renzhecloud.link
+  - DOMAIN,renzhesubconverter.com
   
   
 
