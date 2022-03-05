@@ -16,5 +16,6 @@ payload:
   - DOMAIN,renzhesubconverter.com
   - DOMAIN,emby.renzhe.work
   - DOMAIN,servers.xeton.dev
-
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,jable.tv
   
