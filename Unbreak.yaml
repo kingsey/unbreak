@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,18comic.vip
 #忍者云相关
   - DOMAIN-SUFFIX,renzhe.cloud
   - DOMAIN-SUFFIX,renzhecloud.com
@@ -21,5 +23,6 @@ payload:
   - DOMAIN,servers.xeton.dev
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,graph.oculus.com
+  - DOMAIN-SUFFIX,t.me
 
   
