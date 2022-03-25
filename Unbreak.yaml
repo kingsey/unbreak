@@ -1,21 +1,25 @@
 payload:
+#porn
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,kdw019.com
   - DOMAIN-SUFFIX,dmm.co.jp
-  - DOMAIN-KEYWORD,dmm
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,graph.oculus.com
-  - DOMAIN,renzhe.cloud
-  - DOMAIN,renzhecloud.com
-  - DOMAIN,knowledgebase.renzhecloud.link
-  - DOMAIN,status.renzhecloud.link
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,spankbang.com
+  - DOMAIN-SUFFIX,pornemby.club
+#忍者云相关
+  - DOMAIN-SUFFIX,renzhe.cloud
+  - DOMAIN-SUFFIX,renzhecloud.com
+  - DOMAIN-SUFFIX,renzhecloud.link
   - DOMAIN,renzhesubconverter.com
   - DOMAIN,emby.renzhe.work
+#其他
   - DOMAIN,servers.xeton.dev
   - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,graph.oculus.com
+
   
