@@ -24,5 +24,6 @@ payload:
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,graph.oculus.com
   - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,mirrors.vsean.net
 
   
